@@ -1,0 +1,1 @@
+print("linea 1\nLiena 2\nLinea 3\nLiena 4\nLinea5\nLinea 6")

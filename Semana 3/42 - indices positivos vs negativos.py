@@ -1,0 +1,8 @@
+mensaje = "Guatemala"
+
+print(mensaje[0])
+print(mensaje[4])
+
+print(mensaje[-1])
+print(mensaje[-2])
+#print(len(mensaje))

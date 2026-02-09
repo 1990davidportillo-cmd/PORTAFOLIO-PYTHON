@@ -1,0 +1,1 @@
+print('soy un string con comillas simples')

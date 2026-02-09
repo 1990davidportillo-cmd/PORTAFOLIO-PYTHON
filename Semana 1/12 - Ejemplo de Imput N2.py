@@ -1,0 +1,1 @@
+print(imput("¿cual es tu nombre?"))

@@ -1,0 +1,4 @@
+texto = "banana"
+print(texto.index("a"))
+print(texto.index("a", 2))
+print(texto.index("a",4))

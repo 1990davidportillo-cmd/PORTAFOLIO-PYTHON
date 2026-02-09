@@ -1,0 +1,6 @@
+texto ="hola mundo"
+
+print(texto[0])
+print(texto[5])
+print(texto[9])
+print(texto[3])

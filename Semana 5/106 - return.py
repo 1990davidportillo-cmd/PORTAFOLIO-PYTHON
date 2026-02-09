@@ -1,0 +1,18 @@
+def sumar(num1, num2):
+    return num1 + num2
+
+#total = sumar(5,3)
+#print(f"la suma es: {total}")
+
+def operaciones(num1, num2):
+    suma = num1 + num2
+    resta = num1 - num2
+    multiplicacion = num1 * num2
+    division = num1 / num2
+    return suma, resta, multiplicacion, division
+
+a,b,c,d = operaciones(5,6)
+print(a)
+print(b)
+print(c)
+print(d)

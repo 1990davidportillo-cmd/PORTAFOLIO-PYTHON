@@ -1,0 +1,6 @@
+numero_1 = float(input("introduce el numero 1: "))
+numero_2 = float(input("introduce el numero 2: "))
+print(f"la suma de {numero_1}:con {numero_2} es {numero_1 + numero_2}")
+print(f"la resta de {numero_1} con {numero_2} es {numero_1 - numero_2}")
+print(f"la multiplicacion de {numero_1} con {numero_2} es {numero_1 * numero_2}")
+print(f"la division de {numero_1} con {numero_2} es {numero_1 / numero_2}")

@@ -1,0 +1,6 @@
+texto ="hola mundo"
+
+print(texto[-1])
+print(texto[-5])
+print(texto[-10])
+print(texto[-2])
